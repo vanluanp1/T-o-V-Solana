@@ -1,0 +1,8 @@
+{
+  "name": "solana-wallet-generator",
+  "version": "1.0.0",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.4",
+    "xlsx": "^0.18.5"
+  }
+}
